@@ -2,7 +2,9 @@
 
 A curated collection of reusable PowerShell scripts for sysadmin and ops automation.
 
-Scripts in this repository are cleaned, documented, and safe for public sharing. They cover Windows on-prem, Microsoft 365, Entra ID, Intune, Microsoft Graph, and general sysadmin workflows. All scripts are environment-neutral — no client identifiers, secrets, or org-specific configuration.
+Scripts in this repository are cleaned, documented, and safe for public sharing. They cover Windows on-prem, Microsoft 365, Entra ID, Intune, Microsoft Graph, and general sysadmin workflows. 
+
+All scripts are environment-neutral — no client identifiers, secrets, or org-specific configuration.
 
 ---
 
